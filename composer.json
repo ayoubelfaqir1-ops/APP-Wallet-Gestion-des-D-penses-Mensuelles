@@ -1,0 +1,15 @@
+{
+    "name": "ayoub/wallet-app",
+    "autoload": {
+        "classmap": [
+            "."
+        ]
+    },
+    "authors": [
+        {
+            "name": "ayoub elfaqir",
+            "email": "ayoub.elfaqir1@gmail.com"
+        }
+    ],
+    "require": {}
+}
